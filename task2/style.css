@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(237, 132, 191);
+}
+#consoleLog  {
+    background-color: rgb(178, 103, 148);
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#showalert {
+    background-color: rgb(178, 103, 148);
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#prompt {
+    background-color: rgb(178, 103, 148);
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.color {
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}

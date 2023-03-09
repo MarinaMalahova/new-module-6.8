@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(190, 190, 250);
+}
+li {
+    font-size: 1.7em;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px ;
+    color: blue;
+}
+a {
+    color: rgb(207, 24, 146);
+}
+
+
